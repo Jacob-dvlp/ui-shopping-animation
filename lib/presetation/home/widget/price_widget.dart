@@ -10,7 +10,7 @@ class PriceWidget extends StatelessWidget {
     return Text(
       "\$${shopping.price.toString()}",
       style: const TextStyle(
-          fontWeight: FontWeight.bold, fontSize: 30, color: Colors.white),
+          fontWeight: FontWeight.w500, fontSize: 30, color: Colors.white),
       textAlign: TextAlign.center,
     );
   }
