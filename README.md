@@ -1,5 +1,5 @@
 # Challenge Flutter Animation 
 
-## Result 
+Demostração - vídeo
 
 ![demo](https://github.com/Jacob-dvlp/ui-shopping-animation/blob/master/demo.gif)
